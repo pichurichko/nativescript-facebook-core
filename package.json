@@ -1,0 +1,12 @@
+{
+    "name": "nativescript-facebook-core",
+    "version": "0.0.1",
+    "main": "index.js",
+    "nativescript": {
+      "platforms": {
+        "android": "4.1.1",
+        "ios": "4.2.0"
+      }
+    }
+  }
+  
